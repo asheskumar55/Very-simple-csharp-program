@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2015\Projects\Conditionaloperatordemo\Conditionaloperatordemo\bin\Debug\Conditionaloperatordemo.exe
+c:\users\user\documents\visual studio 2015\Projects\Conditionaloperatordemo\Conditionaloperatordemo\bin\Debug\Conditionaloperatordemo.pdb
+c:\users\user\documents\visual studio 2015\Projects\Conditionaloperatordemo\Conditionaloperatordemo\obj\Debug\Conditionaloperatordemo.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Conditionaloperatordemo\Conditionaloperatordemo\obj\Debug\Conditionaloperatordemo.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Conditionaloperatordemo\Conditionaloperatordemo\obj\Debug\Conditionaloperatordemo.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Conditionaloperatordemo\Conditionaloperatordemo\obj\Debug\Conditionaloperatordemo.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Conditionaloperatordemo\Conditionaloperatordemo\obj\Debug\Conditionaloperatordemo.exe
+c:\users\user\documents\visual studio 2015\Projects\Conditionaloperatordemo\Conditionaloperatordemo\obj\Debug\Conditionaloperatordemo.pdb
